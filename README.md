@@ -1,8 +1,48 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# TeZado Anime
 
-Currently, two official plugins are available:
+A Free Anime streaming site. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+
+## Features
+
+- Multiple Servers for episodes
+- Hourly Updating data
+- Optimized for multi-devices
+- Performance focused
+- Fullscreen mode
+
+
+
+## Installation
+
+Clone my-project with git
+
+```bash
+  git clone git@github.com:TeZado/TeZado-Music.git my-project
+  cd my-project
+```
+```bash
+  npm i 
+  npm run dev
+```
+
+Create .env file and add your api. 
+## Screenshots
+
+![App Screenshot](https://github.com/TeZado/TeZado-Music/blob/main/src/assets/Screenshot%202024-06-12%20000549.png)
+
+
+## Tech Stack
+
+**Client:** React, TailwindCSS.
+
+
+
+## Support
+
+For support, email : hrishikesh082000@gmail.com.
+
