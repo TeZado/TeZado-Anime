@@ -34,6 +34,8 @@ Create .env file and add your api.
 ## Screenshots
 
 ![App Screenshot](https://github.com/TeZado/TeZado-Anime/blob/master/public/Screenshot%202024-06-15%20142422.png)
+![App Screenshot](https://github.com/TeZado/TeZado-Anime/blob/master/public/Screenshot%202024-06-15%20142449.png)
+![App Screenshot](https://github.com/TeZado/TeZado-Anime/blob/master/public/Screenshot%202024-06-15%20142504.png)
 
 
 ## Tech Stack
